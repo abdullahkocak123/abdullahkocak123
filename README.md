@@ -5,7 +5,7 @@ I'm an Electrical and Electronics Engineer transitioning into the world of Softw
 ## My Skills & Interests 🛠️
 **Languages:** Java, SQL  
 
-**Tools:** IntelliJ IDEA  
+**Frameworks & Tools:** IntelliJ IDEA, Spring Boot, Hibernate, Maven, SAP ERP, Microsoft Office 
 
 **Passions:** Problem-solving, algorithms, and math  
 
