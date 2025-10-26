@@ -1,9 +1,9 @@
 # Hi, I'm Abdullah 👋
 
-I'm an Electrical and Electronics Engineer transitioning into the world of Software Development. After years of experience in the electrical industry, I'm now focused on becoming a Full Stack Developer by learning Java and enhancing my software development skills. 🚀
+I'm an Electrical and Electronics Engineer transitioning into the world of Software Development. After years of experience in the electrical industry, I'm now focused on becoming a Full Stack Developer by learning Java + React and enhancing my software development skills. 🚀
 
 ## My Skills & Interests 🛠️
-**Languages:** Java, SQL  
+**Languages:** Java, React, JavaScript, HTML, CSS, SQL  
 
 **Frameworks & Tools:** IntelliJ IDEA, Spring Boot, Hibernate, Maven, SAP ERP, Microsoft Office 
 
